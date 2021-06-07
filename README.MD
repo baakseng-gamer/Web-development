@@ -60,11 +60,13 @@
 
 * **HBuilder**
 
+
+
 # 文档
 
 * **W3school** 
 
-  https://www.w3cschool.cn/
+  https://www.w3school.com.cn/
 
   
 
@@ -106,7 +108,7 @@
 
 * **CSS手册**
 
-  http://css.cuishifeng.cn/
+  https://www.runoob.com/cssref/css-reference.html
 
   
 
@@ -120,7 +122,7 @@
 
   http://flexboxfroggy.com/
 
-  https://www.ruanyifeng.com/blog/2015/07/flex-grammar.html
+  https://www.ruanyifeng.com/blog/2015/07/flex-grammar.html（需VPN）
 
   
 
@@ -134,7 +136,7 @@
 
 * **Bootstrap** 
 
-  https://getbootstrap.net/ 官网
+  https://getbootstrap.com/官网
 
   https://v4.bootcss.com/ 官网中文版本4
 
@@ -142,7 +144,7 @@
 
   https://www.bootcss.com/*该网站内含其它各种文档、手册 很多很多的*
 
-  https://getbootstrap.net/ 该网站有中文文档
+  https://getbootstrap.net/ 该网站有全中文文档
 
   
 
@@ -353,8 +355,6 @@
 
   * **尚硅谷视屏下载** http://www.atguigu.com/download.shtml
 
-  * **尚学堂视屏下载** http://www.cd-sxt.com/download.html
-
   * **千锋**   http://www.mobiletrain.org/
 
 
@@ -434,7 +434,7 @@
 
   * **楚雨轩** 
 
-    https://chuyuxuan.xyz/
+    https://blog.chuyuxuan.top/
 
 * **B站**
 
