@@ -454,7 +454,7 @@
 
     https://space.bilibili.com/405768506/video
 
-  * **objtube的卢克儿 ** 路线清晰
+  * **objtube的卢克儿** 路线清晰
 
     https://space.bilibili.com/5104803
 
@@ -462,7 +462,7 @@
 
     https://space.bilibili.com/22337577
 
-  * **程序员发际线j ** 各种知识点
+  * **程序员发际线j** 各种知识点
 
     https://space.bilibili.com/275001547
 
