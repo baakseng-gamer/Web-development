@@ -6,37 +6,37 @@ JS组成的三个部分, JS中的变量, JS中的数据类型
 
 https://web.mindyushu.com/s/gsp
 
-## 03.JS基础知识
+## 02.三类输出方式
 
 console, window提示框, 页面插入
 
 https://web.mindyushu.com/s/gcf
 
-## 04.Number 数据类型
+## 03.Number 数据类型
 
 包含, isNaN, 其他类型转换为数字类型, 扩展
 
 https://web.mindyushu.com/s/i4q
 
-## 05.String 数据类型
+## 04.String 数据类型
 
 定义, 其他类型转字符串类型, 字符串的数学运算
 
 https://web.mindyushu.com/s/fg1
 
-## 06.Boolean 数据类型
+## 05.Boolean 数据类型
 
 包含, 其他类型转布尔类型
 
 https://web.mindyushu.com/s/2Vd
 
-## 07.Object 数据类型
+## 06.Object 数据类型
 
 特点, 键值对, 引用数据类型不能作为属性名, 数组
 
 https://web.mindyushu.com/s/iOR
 
-## 08.条件判断里的相互转换规则
+## 07.条件判断里的相互转换规则
 
 数字 == 字符串, 数字 == 布尔, 字符串 == 布尔, 对象 == 数字, 对象 == 字符串, 对象 == 布尔, 对象 == 对象, 规律, 特殊
 
@@ -47,6 +47,12 @@ https://web.mindyushu.com/s/5E4
 if...else if...else, 三元运算符, switch...case, 相关的散知识
 
 https://web.mindyushu.com/s/Ro
+
+## 08.数据类型之间的区别
+
+webkit底层运行机制, 基本数据类型（值类型）, 引用数据类型（对象函数）
+
+https://web.mindyushu.com/s/m9i
 
 ## 10.JS中的for循环
 
