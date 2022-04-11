@@ -40,15 +40,14 @@
 
     * HTML Snippets、类似的XXXX Snippets 自动补全代码，初学者慎用！
 
-    * Markdown All in One（用来自动生成目录，牛逼不解释）
-
-      在需要插入目录的地方，快捷键CTRL(CMD)+SHIFT+P，输入Markdown All in One: Create Table of Contents回车即可
-
     * px to rem 单位转换
 
     * Markdown
 
-      * Markdown All in One
+      * Markdown All in One（用来自动生成目录，牛逼不解释）
+      
+        在需要插入目录的地方，快捷键CTRL(CMD)+SHIFT+P，输入Markdown All in One: Create Table of Contents回车即可
+      
       * Markdown Preview Enhanced 右上角可开启预览效果
   
   * 设置：
