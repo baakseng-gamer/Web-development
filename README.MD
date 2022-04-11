@@ -46,10 +46,15 @@
 
     * px to rem 单位转换
 
+    * Markdown
+
+      * Markdown All in One
+      * Markdown Preview Enhanced 右上角可开启预览效果
+  
   * 设置：
-
+  
     * 关闭右侧预览
-
+  
       文件-首选项-设置,搜索"editor.minimap.enabled",默认值为打钩,钩去掉即可。
 
 
